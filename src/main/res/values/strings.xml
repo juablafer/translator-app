@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="wrong_answers_0">Wrong answers: 0</string>
+    <string name="correct_answers_0">Correct answers: 0</string>
+    <string name="check">Check</string>
+    <string name="reset">Reset</string>
+    <string name="write_your_guess">Write your guess</string>
+    <string name="translate_the_following_word">Translate the following word</string>
+</resources>
