@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView textViewSourceWord, textViewCorrect, textViewWrong;
     private EditText editTextResultWord;
-    private Button buttonReset, buttonCheck;
     int correctAnswers = 0, wrongAnswers = 0;
 
     @Override
